@@ -1,0 +1,269 @@
+id: e1c17bc3b86142fea0b4eb1e2b0601fb
+annotation_type: index
+revision: '00001'
+annotations:
+  425e686fdce94799ba1306cbda0d7888:
+    base: f05AC.txt
+    span:
+      start: 0
+      end: 209
+  4682c6da6ac744699dbaf94dc78c4911:
+    base: f122C.txt
+    span:
+      start: 0
+      end: 2023
+  0853f5a890564234827d702ee02e0291:
+    base: f1707.txt
+    span:
+      start: 0
+      end: 1646
+  961760efcd99421c828f357de1617999:
+    base: f1895.txt
+    span:
+      start: 0
+      end: 2382
+  79e71ed0a0ae4498a18cda6583769e57:
+    base: f1B56.txt
+    span:
+      start: 0
+      end: 0
+  827774f4de6c4027992b173afbe9d3bc:
+    base: f2711.txt
+    span:
+      start: 0
+      end: 0
+  0cf98553bd2347deac8e11f3fd71d25e:
+    base: f2B2D.txt
+    span:
+      start: 0
+      end: 2525
+  9fc72d5f87294b868531a44abbd42992:
+    base: f2D94.txt
+    span:
+      start: 0
+      end: 3723
+  eaea76b8af334492be941c33fa3377db:
+    base: f33B2.txt
+    span:
+      start: 0
+      end: 0
+  457549deb81540939f36efa6e35b9ac1:
+    base: f3577.txt
+    span:
+      start: 0
+      end: 2265
+  bff9dd84211042e1984559fa328139f4:
+    base: f4B96.txt
+    span:
+      start: 0
+      end: 2208
+  6b6ce5c427274075aed6aa8bdd7196b3:
+    base: f5446.txt
+    span:
+      start: 0
+      end: 480
+  f200da144cee4df4864620182727c196:
+    base: f552F.txt
+    span:
+      start: 0
+      end: 1461
+  7201c526b85347c08ddc5ea500bffc02:
+    base: f5613.txt
+    span:
+      start: 0
+      end: 251
+  571267a108fb471da6dea675576fc61e:
+    base: f5682.txt
+    span:
+      start: 0
+      end: 0
+  c5a3f19f5aa444e7bf6b906d2c66ab96:
+    base: f6293.txt
+    span:
+      start: 0
+      end: 2457
+  8d9a419ed1cf48e48c0654d9c40d61a9:
+    base: f62A2.txt
+    span:
+      start: 0
+      end: 0
+  0000680732f9499c86ede8f73004bff2:
+    base: f6B24.txt
+    span:
+      start: 0
+      end: 111
+  504bbbfb024e488fb2a1c25057e0a589:
+    base: f6BE5.txt
+    span:
+      start: 0
+      end: 1028
+  175263b2d13946759779cd951ed4f516:
+    base: f6D38.txt
+    span:
+      start: 0
+      end: 0
+  22ef8a1134944f7093bfc3dccfd7f80b:
+    base: f767E.txt
+    span:
+      start: 0
+      end: 2596
+  4724b5642d944f20b7a8732c6000e2d6:
+    base: f7C8F.txt
+    span:
+      start: 0
+      end: 455
+  07dce4cb461b4943a25c5e15cbe54b92:
+    base: f7CE5.txt
+    span:
+      start: 0
+      end: 2567
+  0873d7f30332415393ae7bd7d50603bb:
+    base: f7CED.txt
+    span:
+      start: 0
+      end: 0
+  90dff9d073a84ed99ddbcc747ba82f26:
+    base: f8499.txt
+    span:
+      start: 0
+      end: 782
+  55f40f33b2294c6099b4c9660c265498:
+    base: f888B.txt
+    span:
+      start: 0
+      end: 823
+  1ab180070d70457e80cfcae40fd92e6d:
+    base: f8ABE.txt
+    span:
+      start: 0
+      end: 750
+  b631b424b1a64423beec61990dd06682:
+    base: f8DD1.txt
+    span:
+      start: 0
+      end: 1423
+  59b0ca76dd034beba0c667910841ed14:
+    base: f9DE4.txt
+    span:
+      start: 0
+      end: 1710
+  751024c760c1494aa235324c894c59a0:
+    base: f9EB9.txt
+    span:
+      start: 0
+      end: 483
+  d0107898f2f641cebd0fdbdb1ecc2945:
+    base: fA149.txt
+    span:
+      start: 0
+      end: 3134
+  3027f89135db47f994d659d0ecfd45b9:
+    base: fA6A4.txt
+    span:
+      start: 0
+      end: 2629
+  0cc2167f5a374b93b06cfbedeff61b7b:
+    base: fAA27.txt
+    span:
+      start: 0
+      end: 767
+  d67d322bc5fc47f18259c9a4ddaa0884:
+    base: fAE79.txt
+    span:
+      start: 0
+      end: 2051
+  0d6187bd3746463ea68d099c250f2051:
+    base: fB2BE.txt
+    span:
+      start: 0
+      end: 1512
+  2a401dbf407b40968aa3cb157c305f63:
+    base: fB9D2.txt
+    span:
+      start: 0
+      end: 0
+  d51c64062ede4a43af40038996095cc8:
+    base: fBA8F.txt
+    span:
+      start: 0
+      end: 2132
+  82ce075cd3b045289a2ace7d7b4f7836:
+    base: fC4BD.txt
+    span:
+      start: 0
+      end: 0
+  b354fdfa3fca4fe6b4e6d6a2984b1325:
+    base: fCA00.txt
+    span:
+      start: 0
+      end: 0
+  79c6e4a9faf0409b89938b11ae1131c4:
+    base: fCB25.txt
+    span:
+      start: 0
+      end: 0
+  d749c94775214c9ab49838d5e444f21b:
+    base: fD112.txt
+    span:
+      start: 0
+      end: 2229
+  6cfdc954f33a42209517ada975952223:
+    base: fD292.txt
+    span:
+      start: 0
+      end: 0
+  d3d3b0124be447cab1e9804d1da8c798:
+    base: fD3D0.txt
+    span:
+      start: 0
+      end: 0
+  35e44775c7d64f2892c76cae0b42eafc:
+    base: fD806.txt
+    span:
+      start: 0
+      end: 134
+  f410a575a945447fb59da8eaf87a7be1:
+    base: fD969.txt
+    span:
+      start: 0
+      end: 1614
+  45475b80cb9f482991bf90ff6531c414:
+    base: fDE29.txt
+    span:
+      start: 0
+      end: 1651
+  f3d8197283844caca2b405dc4ac7c3ff:
+    base: fE1F4.txt
+    span:
+      start: 0
+      end: 0
+  5027f066a69c445b84f34464d40ffedd:
+    base: fE33B.txt
+    span:
+      start: 0
+      end: 0
+  7dc3af1a0cd14338b367cd48957c1d50:
+    base: fEA78.txt
+    span:
+      start: 0
+      end: 3292
+  c670fa2f0b2f4b3ebaf21f1ba86a3087:
+    base: fED94.txt
+    span:
+      start: 0
+      end: 1261
+  50e90eeb9b2a4bdead563c321eb76823:
+    base: fF799.txt
+    span:
+      start: 0
+      end: 633
+  1dbfc5f1f37741d684815c9686925ed0:
+    base: fFABB.txt
+    span:
+      start: 0
+      end: 1887
+  470fd2bef22b4e7f9e47d74b895de392:
+    base: fFFEF.txt
+    span:
+      start: 0
+      end: 0
